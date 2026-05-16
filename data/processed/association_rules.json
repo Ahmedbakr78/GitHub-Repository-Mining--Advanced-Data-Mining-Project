@@ -1,0 +1,4447 @@
+[
+ {
+  "antecedent": [
+   "deep-reinforcement-learning"
+  ],
+  "consequent": [
+   "reinforcement-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.92857,
+  "lift": 18.57143,
+  "conviction": 13.3,
+  "leverage": 0.0123,
+  "antecedent_count": 14,
+  "consequent_count": 50
+ },
+ {
+  "antecedent": [
+   "deep-reinforcement-learning"
+  ],
+  "consequent": [
+   "machine-learning",
+   "reinforcement-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.92857,
+  "lift": 18.57143,
+  "conviction": 13.3,
+  "leverage": 0.0123,
+  "antecedent_count": 14,
+  "consequent_count": 50
+ },
+ {
+  "antecedent": [
+   "deep-reinforcement-learning",
+   "machine-learning"
+  ],
+  "consequent": [
+   "reinforcement-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.92857,
+  "lift": 18.57143,
+  "conviction": 13.3,
+  "leverage": 0.0123,
+  "antecedent_count": 14,
+  "consequent_count": 50
+ },
+ {
+  "antecedent": [
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "deep-reinforcement-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.26,
+  "lift": 18.57143,
+  "conviction": 1.33243,
+  "leverage": 0.0123,
+  "antecedent_count": 50,
+  "consequent_count": 14
+ },
+ {
+  "antecedent": [
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "deep-reinforcement-learning",
+   "machine-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.26,
+  "lift": 18.57143,
+  "conviction": 1.33243,
+  "leverage": 0.0123,
+  "antecedent_count": 50,
+  "consequent_count": 14
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "deep-reinforcement-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.26,
+  "lift": 18.57143,
+  "conviction": 1.33243,
+  "leverage": 0.0123,
+  "antecedent_count": 50,
+  "consequent_count": 14
+ },
+ {
+  "antecedent": [
+   "image-processing"
+  ],
+  "consequent": [
+   "computer-vision",
+   "python"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.54167,
+  "lift": 9.84848,
+  "conviction": 2.06182,
+  "leverage": 0.01168,
+  "antecedent_count": 24,
+  "consequent_count": 55
+ },
+ {
+  "antecedent": [
+   "keras"
+  ],
+  "consequent": [
+   "deep-learning",
+   "tensorflow"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.62069,
+  "lift": 9.26402,
+  "conviction": 2.45973,
+  "leverage": 0.01606,
+  "antecedent_count": 29,
+  "consequent_count": 67
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "tensorflow"
+  ],
+  "consequent": [
+   "keras"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.26866,
+  "lift": 9.26402,
+  "conviction": 1.32769,
+  "leverage": 0.01606,
+  "antecedent_count": 67,
+  "consequent_count": 29
+ },
+ {
+  "antecedent": [
+   "keras",
+   "python"
+  ],
+  "consequent": [
+   "tensorflow"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.78947,
+  "lift": 8.39866,
+  "conviction": 4.3035,
+  "leverage": 0.01321,
+  "antecedent_count": 19,
+  "consequent_count": 94
+ },
+ {
+  "antecedent": [
+   "keras"
+  ],
+  "consequent": [
+   "python",
+   "tensorflow"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.51724,
+  "lift": 7.83699,
+  "conviction": 1.93471,
+  "leverage": 0.01309,
+  "antecedent_count": 29,
+  "consequent_count": 66
+ },
+ {
+  "antecedent": [
+   "keras"
+  ],
+  "consequent": [
+   "tensorflow"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.68966,
+  "lift": 7.33676,
+  "conviction": 2.91933,
+  "leverage": 0.01727,
+  "antecedent_count": 29,
+  "consequent_count": 94
+ },
+ {
+  "antecedent": [
+   "keras"
+  ],
+  "consequent": [
+   "machine-learning",
+   "tensorflow"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.68966,
+  "lift": 7.33676,
+  "conviction": 2.91933,
+  "leverage": 0.01727,
+  "antecedent_count": 29,
+  "consequent_count": 94
+ },
+ {
+  "antecedent": [
+   "keras",
+   "machine-learning"
+  ],
+  "consequent": [
+   "tensorflow"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.68966,
+  "lift": 7.33676,
+  "conviction": 2.91933,
+  "leverage": 0.01727,
+  "antecedent_count": 29,
+  "consequent_count": 94
+ },
+ {
+  "antecedent": [
+   "image-processing",
+   "python"
+  ],
+  "consequent": [
+   "computer-vision"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.72222,
+  "lift": 7.29517,
+  "conviction": 3.2436,
+  "leverage": 0.01122,
+  "antecedent_count": 18,
+  "consequent_count": 99
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "keras"
+  ],
+  "consequent": [
+   "tensorflow"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.66667,
+  "lift": 7.0922,
+  "conviction": 2.718,
+  "leverage": 0.01546,
+  "antecedent_count": 27,
+  "consequent_count": 94
+ },
+ {
+  "antecedent": [
+   "data-analysis"
+  ],
+  "consequent": [
+   "data-science",
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.63158,
+  "lift": 7.01754,
+  "conviction": 2.47,
+  "leverage": 0.01029,
+  "antecedent_count": 19,
+  "consequent_count": 90
+ },
+ {
+  "antecedent": [
+   "object-detection"
+  ],
+  "consequent": [
+   "computer-vision"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.68182,
+  "lift": 6.88705,
+  "conviction": 2.83171,
+  "leverage": 0.01282,
+  "antecedent_count": 22,
+  "consequent_count": 99
+ },
+ {
+  "antecedent": [
+   "object-detection"
+  ],
+  "consequent": [
+   "computer-vision",
+   "machine-learning"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.68182,
+  "lift": 6.88705,
+  "conviction": 2.83171,
+  "leverage": 0.01282,
+  "antecedent_count": 22,
+  "consequent_count": 99
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "object-detection"
+  ],
+  "consequent": [
+   "computer-vision"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.68182,
+  "lift": 6.88705,
+  "conviction": 2.83171,
+  "leverage": 0.01282,
+  "antecedent_count": 22,
+  "consequent_count": 99
+ },
+ {
+  "antecedent": [
+   "image-processing"
+  ],
+  "consequent": [
+   "computer-vision"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.66667,
+  "lift": 6.73401,
+  "conviction": 2.703,
+  "leverage": 0.01362,
+  "antecedent_count": 24,
+  "consequent_count": 99
+ },
+ {
+  "antecedent": [
+   "image-processing"
+  ],
+  "consequent": [
+   "computer-vision",
+   "machine-learning"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.66667,
+  "lift": 6.73401,
+  "conviction": 2.703,
+  "leverage": 0.01362,
+  "antecedent_count": 24,
+  "consequent_count": 99
+ },
+ {
+  "antecedent": [
+   "image-processing",
+   "machine-learning"
+  ],
+  "consequent": [
+   "computer-vision"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.66667,
+  "lift": 6.73401,
+  "conviction": 2.703,
+  "leverage": 0.01362,
+  "antecedent_count": 24,
+  "consequent_count": 99
+ },
+ {
+  "antecedent": [
+   "data-analysis",
+   "python"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.85714,
+  "lift": 5.99401,
+  "conviction": 5.999,
+  "leverage": 0.01,
+  "antecedent_count": 14,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data-analysis"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.84211,
+  "lift": 5.88885,
+  "conviction": 5.42767,
+  "leverage": 0.01328,
+  "antecedent_count": 19,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data-analysis"
+  ],
+  "consequent": [
+   "data-science",
+   "machine-learning"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.84211,
+  "lift": 5.88885,
+  "conviction": 5.42767,
+  "leverage": 0.01328,
+  "antecedent_count": 19,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data-analysis",
+   "machine-learning"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.84211,
+  "lift": 5.88885,
+  "conviction": 5.42767,
+  "leverage": 0.01328,
+  "antecedent_count": 19,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data-mining"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.7,
+  "lift": 4.8951,
+  "conviction": 2.85667,
+  "leverage": 0.01114,
+  "antecedent_count": 20,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data-mining"
+  ],
+  "consequent": [
+   "data-science",
+   "machine-learning"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.7,
+  "lift": 4.8951,
+  "conviction": 2.85667,
+  "leverage": 0.01114,
+  "antecedent_count": 20,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data-mining",
+   "machine-learning"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.7,
+  "lift": 4.8951,
+  "conviction": 2.85667,
+  "leverage": 0.01114,
+  "antecedent_count": 20,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.68421,
+  "lift": 4.78469,
+  "conviction": 2.71383,
+  "leverage": 0.01028,
+  "antecedent_count": 19,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data"
+  ],
+  "consequent": [
+   "data-science",
+   "machine-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.68421,
+  "lift": 4.78469,
+  "conviction": 2.71383,
+  "leverage": 0.01028,
+  "antecedent_count": 19,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data",
+   "machine-learning"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.68421,
+  "lift": 4.78469,
+  "conviction": 2.71383,
+  "leverage": 0.01028,
+  "antecedent_count": 19,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data-visualization"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.63158,
+  "lift": 4.41664,
+  "conviction": 2.32614,
+  "leverage": 0.00928,
+  "antecedent_count": 19,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data-visualization"
+  ],
+  "consequent": [
+   "data-science",
+   "machine-learning"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.63158,
+  "lift": 4.41664,
+  "conviction": 2.32614,
+  "leverage": 0.00928,
+  "antecedent_count": 19,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "data-visualization",
+   "machine-learning"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.63158,
+  "lift": 4.41664,
+  "conviction": 2.32614,
+  "leverage": 0.00928,
+  "antecedent_count": 19,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "generative-ai"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.8125,
+  "lift": 4.16667,
+  "conviction": 4.29333,
+  "leverage": 0.00988,
+  "antecedent_count": 16,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "generative-ai"
+  ],
+  "consequent": [
+   "artificial-intelligence",
+   "machine-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.8125,
+  "lift": 4.16667,
+  "conviction": 4.29333,
+  "leverage": 0.00988,
+  "antecedent_count": 16,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "generative-ai",
+   "machine-learning"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.8125,
+  "lift": 4.16667,
+  "conviction": 4.29333,
+  "leverage": 0.00988,
+  "antecedent_count": 16,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "jupyter-notebook"
+  ],
+  "consequent": [
+   "jupyter notebook"
+  ],
+  "support": 0.019,
+  "support_count": 19,
+  "confidence": 0.67857,
+  "lift": 3.74901,
+  "conviction": 2.548,
+  "leverage": 0.01393,
+  "antecedent_count": 28,
+  "consequent_count": 181
+ },
+ {
+  "antecedent": [
+   "jupyter-notebook"
+  ],
+  "consequent": [
+   "jupyter notebook",
+   "machine-learning"
+  ],
+  "support": 0.019,
+  "support_count": 19,
+  "confidence": 0.67857,
+  "lift": 3.74901,
+  "conviction": 2.548,
+  "leverage": 0.01393,
+  "antecedent_count": 28,
+  "consequent_count": 181
+ },
+ {
+  "antecedent": [
+   "jupyter-notebook",
+   "machine-learning"
+  ],
+  "consequent": [
+   "jupyter notebook"
+  ],
+  "support": 0.019,
+  "support_count": 19,
+  "confidence": 0.67857,
+  "lift": 3.74901,
+  "conviction": 2.548,
+  "leverage": 0.01393,
+  "antecedent_count": 28,
+  "consequent_count": 181
+ },
+ {
+  "antecedent": [
+   "jupyter notebook",
+   "python"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.031,
+  "support_count": 31,
+  "confidence": 0.49206,
+  "lift": 3.441,
+  "conviction": 1.68722,
+  "leverage": 0.02199,
+  "antecedent_count": 63,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "neural-network"
+  ],
+  "consequent": [
+   "tensorflow"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.3,
+  "lift": 3.19149,
+  "conviction": 1.29429,
+  "leverage": 0.0103,
+  "antecedent_count": 50,
+  "consequent_count": 94
+ },
+ {
+  "antecedent": [
+   "neural-network",
+   "python"
+  ],
+  "consequent": [
+   "tensorflow"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.29268,
+  "lift": 3.11365,
+  "conviction": 1.2809,
+  "leverage": 0.00815,
+  "antecedent_count": 41,
+  "consequent_count": 94
+ },
+ {
+  "antecedent": [
+   "large-language-model"
+  ],
+  "consequent": [
+   "natural-language-processing"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.3,
+  "lift": 3.06122,
+  "conviction": 1.28857,
+  "leverage": 0.0101,
+  "antecedent_count": 50,
+  "consequent_count": 98
+ },
+ {
+  "antecedent": [
+   "large-language-model"
+  ],
+  "consequent": [
+   "machine-learning",
+   "natural-language-processing"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.3,
+  "lift": 3.06122,
+  "conviction": 1.28857,
+  "leverage": 0.0101,
+  "antecedent_count": 50,
+  "consequent_count": 98
+ },
+ {
+  "antecedent": [
+   "large-language-model",
+   "machine-learning"
+  ],
+  "consequent": [
+   "natural-language-processing"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.3,
+  "lift": 3.06122,
+  "conviction": 1.28857,
+  "leverage": 0.0101,
+  "antecedent_count": 50,
+  "consequent_count": 98
+ },
+ {
+  "antecedent": [
+   "data-science",
+   "deep-learning"
+  ],
+  "consequent": [
+   "computer-vision"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.27119,
+  "lift": 2.73926,
+  "conviction": 1.23626,
+  "leverage": 0.01016,
+  "antecedent_count": 59,
+  "consequent_count": 99
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "computer-vision"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.27083,
+  "lift": 2.73569,
+  "conviction": 1.23566,
+  "leverage": 0.00825,
+  "antecedent_count": 48,
+  "consequent_count": 99
+ },
+ {
+  "antecedent": [
+   "large-language-model"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.026,
+  "support_count": 26,
+  "confidence": 0.52,
+  "lift": 2.66667,
+  "conviction": 1.67708,
+  "leverage": 0.01625,
+  "antecedent_count": 50,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "large-language-model"
+  ],
+  "consequent": [
+   "artificial-intelligence",
+   "machine-learning"
+  ],
+  "support": 0.026,
+  "support_count": 26,
+  "confidence": 0.52,
+  "lift": 2.66667,
+  "conviction": 1.67708,
+  "leverage": 0.01625,
+  "antecedent_count": 50,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "large-language-model",
+   "machine-learning"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.026,
+  "support_count": 26,
+  "confidence": 0.52,
+  "lift": 2.66667,
+  "conviction": 1.67708,
+  "leverage": 0.01625,
+  "antecedent_count": 50,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "keras"
+  ],
+  "consequent": [
+   "deep-learning",
+   "python"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.62069,
+  "lift": 2.63004,
+  "conviction": 2.01418,
+  "leverage": 0.01116,
+  "antecedent_count": 29,
+  "consequent_count": 236
+ },
+ {
+  "antecedent": [
+   "deep-neural-networks"
+  ],
+  "consequent": [
+   "deep-learning",
+   "python"
+  ],
+  "support": 0.021,
+  "support_count": 21,
+  "confidence": 0.6,
+  "lift": 2.54237,
+  "conviction": 1.91,
+  "leverage": 0.01274,
+  "antecedent_count": 35,
+  "consequent_count": 236
+ },
+ {
+  "antecedent": [
+   "pytorch"
+  ],
+  "consequent": [
+   "deep-learning",
+   "python"
+  ],
+  "support": 0.086,
+  "support_count": 86,
+  "confidence": 0.5931,
+  "lift": 2.51315,
+  "conviction": 1.87763,
+  "leverage": 0.05178,
+  "antecedent_count": 145,
+  "consequent_count": 236
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "python"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.086,
+  "support_count": 86,
+  "confidence": 0.36441,
+  "lift": 2.51315,
+  "conviction": 1.3452,
+  "leverage": 0.05178,
+  "antecedent_count": 236,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "deep-neural-networks",
+   "python"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.021,
+  "support_count": 21,
+  "confidence": 1.0,
+  "lift": 2.5,
+  "conviction": 999.0,
+  "leverage": 0.0126,
+  "antecedent_count": 21,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "scikit-learn"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.35294,
+  "lift": 2.46812,
+  "conviction": 1.32445,
+  "leverage": 0.00714,
+  "antecedent_count": 34,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "scikit-learn"
+  ],
+  "consequent": [
+   "data-science",
+   "machine-learning"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.35294,
+  "lift": 2.46812,
+  "conviction": 1.32445,
+  "leverage": 0.00714,
+  "antecedent_count": 34,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "scikit-learn"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.35294,
+  "lift": 2.46812,
+  "conviction": 1.32445,
+  "leverage": 0.00714,
+  "antecedent_count": 34,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "deep-neural-networks"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.034,
+  "support_count": 34,
+  "confidence": 0.97143,
+  "lift": 2.42857,
+  "conviction": 21.0,
+  "leverage": 0.02,
+  "antecedent_count": 35,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deep-neural-networks"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.034,
+  "support_count": 34,
+  "confidence": 0.97143,
+  "lift": 2.42857,
+  "conviction": 21.0,
+  "leverage": 0.02,
+  "antecedent_count": 35,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deep-neural-networks",
+   "machine-learning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.034,
+  "support_count": 34,
+  "confidence": 0.97143,
+  "lift": 2.42857,
+  "conviction": 21.0,
+  "leverage": 0.02,
+  "antecedent_count": 35,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "large-language-model",
+   "python"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.46429,
+  "lift": 2.38095,
+  "conviction": 1.50267,
+  "leverage": 0.00754,
+  "antecedent_count": 28,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "keras",
+   "python"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.94737,
+  "lift": 2.36842,
+  "conviction": 11.4,
+  "leverage": 0.0104,
+  "antecedent_count": 19,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "large-language-model"
+  ],
+  "consequent": [
+   "artificial-intelligence",
+   "python"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.26,
+  "lift": 2.36364,
+  "conviction": 1.2027,
+  "leverage": 0.0075,
+  "antecedent_count": 50,
+  "consequent_count": 110
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "pytorch"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.94118,
+  "lift": 2.35294,
+  "conviction": 10.2,
+  "leverage": 0.0092,
+  "antecedent_count": 17,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "neural-network",
+   "tensorflow"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.9375,
+  "lift": 2.34375,
+  "conviction": 9.6,
+  "leverage": 0.0086,
+  "antecedent_count": 16,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "jupyter notebook"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.025,
+  "support_count": 25,
+  "confidence": 0.33784,
+  "lift": 2.32992,
+  "conviction": 1.29122,
+  "leverage": 0.01427,
+  "antecedent_count": 74,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "keras"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.027,
+  "support_count": 27,
+  "confidence": 0.93103,
+  "lift": 2.32759,
+  "conviction": 8.7,
+  "leverage": 0.0154,
+  "antecedent_count": 29,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "keras"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.027,
+  "support_count": 27,
+  "confidence": 0.93103,
+  "lift": 2.32759,
+  "conviction": 8.7,
+  "leverage": 0.0154,
+  "antecedent_count": 29,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "keras",
+   "machine-learning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.027,
+  "support_count": 27,
+  "confidence": 0.93103,
+  "lift": 2.32759,
+  "conviction": 8.7,
+  "leverage": 0.0154,
+  "antecedent_count": 29,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "keras",
+   "tensorflow"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.9,
+  "lift": 2.25,
+  "conviction": 6.0,
+  "leverage": 0.01,
+  "antecedent_count": 20,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "jupyter notebook",
+   "neural-network"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.88235,
+  "lift": 2.20588,
+  "conviction": 5.1,
+  "leverage": 0.0082,
+  "antecedent_count": 17,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "convolutional-neural-networks"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.86667,
+  "lift": 2.16667,
+  "conviction": 4.5,
+  "leverage": 0.007,
+  "antecedent_count": 15,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "convolutional-neural-networks"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.86667,
+  "lift": 2.16667,
+  "conviction": 4.5,
+  "leverage": 0.007,
+  "antecedent_count": 15,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "convolutional-neural-networks",
+   "machine-learning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.86667,
+  "lift": 2.16667,
+  "conviction": 4.5,
+  "leverage": 0.007,
+  "antecedent_count": 15,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "neural-network",
+   "pytorch"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.86667,
+  "lift": 2.16667,
+  "conviction": 4.5,
+  "leverage": 0.007,
+  "antecedent_count": 15,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "tensorflow"
+  ],
+  "consequent": [
+   "deep-learning",
+   "python"
+  ],
+  "support": 0.048,
+  "support_count": 48,
+  "confidence": 0.51064,
+  "lift": 2.16372,
+  "conviction": 1.56122,
+  "leverage": 0.02582,
+  "antecedent_count": 94,
+  "consequent_count": 236
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "tensorflow"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.021,
+  "support_count": 21,
+  "confidence": 0.31343,
+  "lift": 2.16161,
+  "conviction": 1.24533,
+  "leverage": 0.01129,
+  "antecedent_count": 67,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "jupyter notebook",
+   "pytorch"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.025,
+  "support_count": 25,
+  "confidence": 0.86207,
+  "lift": 2.15517,
+  "conviction": 4.35,
+  "leverage": 0.0134,
+  "antecedent_count": 29,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "natural-language-processing",
+   "pytorch"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.85714,
+  "lift": 2.14286,
+  "conviction": 4.2,
+  "leverage": 0.0064,
+  "antecedent_count": 14,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "data-science"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.84211,
+  "lift": 2.10526,
+  "conviction": 3.8,
+  "leverage": 0.0084,
+  "antecedent_count": 19,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "python",
+   "tensorflow"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.30303,
+  "lift": 2.08986,
+  "conviction": 1.22674,
+  "leverage": 0.01043,
+  "antecedent_count": 66,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "data-science",
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.82353,
+  "lift": 2.05882,
+  "conviction": 3.4,
+  "leverage": 0.0072,
+  "antecedent_count": 17,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.29167,
+  "lift": 2.03963,
+  "conviction": 1.20988,
+  "leverage": 0.00714,
+  "antecedent_count": 48,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.8125,
+  "lift": 2.03125,
+  "conviction": 3.2,
+  "leverage": 0.0066,
+  "antecedent_count": 16,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "pytorch",
+   "tensorflow"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.021,
+  "support_count": 21,
+  "confidence": 0.80769,
+  "lift": 2.01923,
+  "conviction": 3.12,
+  "leverage": 0.0106,
+  "antecedent_count": 26,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "deep-learning"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.2807,
+  "lift": 1.96295,
+  "conviction": 1.19144,
+  "leverage": 0.00785,
+  "antecedent_count": 57,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "deep-learning"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.2807,
+  "lift": 1.93587,
+  "conviction": 1.18866,
+  "leverage": 0.00774,
+  "antecedent_count": 57,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "tensorflow"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.026,
+  "support_count": 26,
+  "confidence": 0.2766,
+  "lift": 1.90756,
+  "conviction": 1.18191,
+  "leverage": 0.01237,
+  "antecedent_count": 94,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "tensorflow"
+  ],
+  "consequent": [
+   "machine-learning",
+   "pytorch"
+  ],
+  "support": 0.026,
+  "support_count": 26,
+  "confidence": 0.2766,
+  "lift": 1.90756,
+  "conviction": 1.18191,
+  "leverage": 0.01237,
+  "antecedent_count": 94,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "tensorflow"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.026,
+  "support_count": 26,
+  "confidence": 0.2766,
+  "lift": 1.90756,
+  "conviction": 1.18191,
+  "leverage": 0.01237,
+  "antecedent_count": 94,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "data-science",
+   "python"
+  ],
+  "consequent": [
+   "jupyter notebook"
+  ],
+  "support": 0.031,
+  "support_count": 31,
+  "confidence": 0.34444,
+  "lift": 1.90301,
+  "conviction": 1.24932,
+  "leverage": 0.01471,
+  "antecedent_count": 90,
+  "consequent_count": 181
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "python"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.27273,
+  "lift": 1.88088,
+  "conviction": 1.17562,
+  "leverage": 0.00702,
+  "antecedent_count": 55,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "python",
+   "pytorch"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.086,
+  "support_count": 86,
+  "confidence": 0.73504,
+  "lift": 1.83761,
+  "conviction": 2.26452,
+  "leverage": 0.0392,
+  "antecedent_count": 117,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "python",
+   "tensorflow"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.048,
+  "support_count": 48,
+  "confidence": 0.72727,
+  "lift": 1.81818,
+  "conviction": 2.2,
+  "leverage": 0.0216,
+  "antecedent_count": 66,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "neural-networks"
+  ],
+  "consequent": [
+   "deep-learning",
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.42857,
+  "lift": 1.81598,
+  "conviction": 1.337,
+  "leverage": 0.00674,
+  "antecedent_count": 35,
+  "consequent_count": 236
+ },
+ {
+  "antecedent": [
+   "data-science"
+  ],
+  "consequent": [
+   "jupyter notebook"
+  ],
+  "support": 0.047,
+  "support_count": 47,
+  "confidence": 0.32867,
+  "lift": 1.81586,
+  "conviction": 1.21997,
+  "leverage": 0.02112,
+  "antecedent_count": 143,
+  "consequent_count": 181
+ },
+ {
+  "antecedent": [
+   "data-science"
+  ],
+  "consequent": [
+   "jupyter notebook",
+   "machine-learning"
+  ],
+  "support": 0.047,
+  "support_count": 47,
+  "confidence": 0.32867,
+  "lift": 1.81586,
+  "conviction": 1.21997,
+  "leverage": 0.02112,
+  "antecedent_count": 143,
+  "consequent_count": 181
+ },
+ {
+  "antecedent": [
+   "data-science",
+   "machine-learning"
+  ],
+  "consequent": [
+   "jupyter notebook"
+  ],
+  "support": 0.047,
+  "support_count": 47,
+  "confidence": 0.32867,
+  "lift": 1.81586,
+  "conviction": 1.21997,
+  "leverage": 0.02112,
+  "antecedent_count": 143,
+  "consequent_count": 181
+ },
+ {
+  "antecedent": [
+   "jupyter notebook"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.047,
+  "support_count": 47,
+  "confidence": 0.25967,
+  "lift": 1.81586,
+  "conviction": 1.15759,
+  "leverage": 0.02112,
+  "antecedent_count": 181,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "jupyter notebook"
+  ],
+  "consequent": [
+   "data-science",
+   "machine-learning"
+  ],
+  "support": 0.047,
+  "support_count": 47,
+  "confidence": 0.25967,
+  "lift": 1.81586,
+  "conviction": 1.15759,
+  "leverage": 0.02112,
+  "antecedent_count": 181,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "jupyter notebook",
+   "machine-learning"
+  ],
+  "consequent": [
+   "data-science"
+  ],
+  "support": 0.047,
+  "support_count": 47,
+  "confidence": 0.25967,
+  "lift": 1.81586,
+  "conviction": 1.15759,
+  "leverage": 0.02112,
+  "antecedent_count": 181,
+  "consequent_count": 143
+ },
+ {
+  "antecedent": [
+   "pytorch"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.105,
+  "support_count": 105,
+  "confidence": 0.72414,
+  "lift": 1.81034,
+  "conviction": 2.175,
+  "leverage": 0.047,
+  "antecedent_count": 145,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "pytorch"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.105,
+  "support_count": 105,
+  "confidence": 0.72414,
+  "lift": 1.81034,
+  "conviction": 2.175,
+  "leverage": 0.047,
+  "antecedent_count": 145,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "pytorch"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.105,
+  "support_count": 105,
+  "confidence": 0.72414,
+  "lift": 1.81034,
+  "conviction": 2.175,
+  "leverage": 0.047,
+  "antecedent_count": 145,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deep-learning"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.105,
+  "support_count": 105,
+  "confidence": 0.2625,
+  "lift": 1.81034,
+  "conviction": 1.15932,
+  "leverage": 0.047,
+  "antecedent_count": 400,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "deep-learning"
+  ],
+  "consequent": [
+   "machine-learning",
+   "pytorch"
+  ],
+  "support": 0.105,
+  "support_count": 105,
+  "confidence": 0.2625,
+  "lift": 1.81034,
+  "conviction": 1.15932,
+  "leverage": 0.047,
+  "antecedent_count": 400,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.105,
+  "support_count": 105,
+  "confidence": 0.2625,
+  "lift": 1.81034,
+  "conviction": 1.15932,
+  "leverage": 0.047,
+  "antecedent_count": 400,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "neural-network"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.26,
+  "lift": 1.7931,
+  "conviction": 1.15541,
+  "leverage": 0.00575,
+  "antecedent_count": 50,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "tensorflow"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.067,
+  "support_count": 67,
+  "confidence": 0.71277,
+  "lift": 1.78191,
+  "conviction": 2.08889,
+  "leverage": 0.0294,
+  "antecedent_count": 94,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "tensorflow"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.067,
+  "support_count": 67,
+  "confidence": 0.71277,
+  "lift": 1.78191,
+  "conviction": 2.08889,
+  "leverage": 0.0294,
+  "antecedent_count": 94,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "tensorflow"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.067,
+  "support_count": 67,
+  "confidence": 0.71277,
+  "lift": 1.78191,
+  "conviction": 2.08889,
+  "leverage": 0.0294,
+  "antecedent_count": 94,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "tensorflow"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.70588,
+  "lift": 1.76471,
+  "conviction": 2.04,
+  "leverage": 0.0052,
+  "antecedent_count": 17,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "neural-network"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.7,
+  "lift": 1.75,
+  "conviction": 2.0,
+  "leverage": 0.006,
+  "antecedent_count": 20,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "pytorch"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.25,
+  "lift": 1.72414,
+  "conviction": 1.14,
+  "leverage": 0.00504,
+  "antecedent_count": 48,
+  "consequent_count": 145
+ },
+ {
+  "antecedent": [
+   "time-series"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.68421,
+  "lift": 1.71053,
+  "conviction": 1.9,
+  "leverage": 0.0054,
+  "antecedent_count": 19,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "time-series"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.68421,
+  "lift": 1.71053,
+  "conviction": 1.9,
+  "leverage": 0.0054,
+  "antecedent_count": 19,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "time-series"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.68421,
+  "lift": 1.71053,
+  "conviction": 1.9,
+  "leverage": 0.0054,
+  "antecedent_count": 19,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "object-detection"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.68182,
+  "lift": 1.70455,
+  "conviction": 1.88571,
+  "leverage": 0.0062,
+  "antecedent_count": 22,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "object-detection"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.68182,
+  "lift": 1.70455,
+  "conviction": 1.88571,
+  "leverage": 0.0062,
+  "antecedent_count": 22,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "object-detection"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.68182,
+  "lift": 1.70455,
+  "conviction": 1.88571,
+  "leverage": 0.0062,
+  "antecedent_count": 22,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "data-science",
+   "deep-learning"
+  ],
+  "consequent": [
+   "jupyter notebook"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.30508,
+  "lift": 1.68555,
+  "conviction": 1.17856,
+  "leverage": 0.00732,
+  "antecedent_count": 59,
+  "consequent_count": 181
+ },
+ {
+  "antecedent": [
+   "transformers"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.66667,
+  "lift": 1.66667,
+  "conviction": 1.8,
+  "leverage": 0.0048,
+  "antecedent_count": 18,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "transformers"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.66667,
+  "lift": 1.66667,
+  "conviction": 1.8,
+  "leverage": 0.0048,
+  "antecedent_count": 18,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "transformers"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.66667,
+  "lift": 1.66667,
+  "conviction": 1.8,
+  "leverage": 0.0048,
+  "antecedent_count": 18,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "automl"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.9375,
+  "lift": 1.66519,
+  "conviction": 6.992,
+  "leverage": 0.00599,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "automl"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.9375,
+  "lift": 1.66519,
+  "conviction": 6.992,
+  "leverage": 0.00599,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "automl",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.9375,
+  "lift": 1.66519,
+  "conviction": 6.992,
+  "leverage": 0.00599,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "neural-network"
+  ],
+  "consequent": [
+   "jupyter notebook"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.3,
+  "lift": 1.65746,
+  "conviction": 1.17,
+  "leverage": 0.00595,
+  "antecedent_count": 50,
+  "consequent_count": 181
+ },
+ {
+  "antecedent": [
+   "natural-language-processing",
+   "pytorch"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.92857,
+  "lift": 1.64933,
+  "conviction": 6.118,
+  "leverage": 0.00512,
+  "antecedent_count": 14,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-science",
+   "pytorch"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.92857,
+  "lift": 1.64933,
+  "conviction": 6.118,
+  "leverage": 0.00512,
+  "antecedent_count": 14,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "neural-network",
+   "python"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.027,
+  "support_count": 27,
+  "confidence": 0.65854,
+  "lift": 1.64634,
+  "conviction": 1.75714,
+  "leverage": 0.0106,
+  "antecedent_count": 41,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "neural-network"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.05,
+  "support_count": 50,
+  "confidence": 0.65789,
+  "lift": 1.64474,
+  "conviction": 1.75385,
+  "leverage": 0.0196,
+  "antecedent_count": 76,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "neural-network"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.05,
+  "support_count": 50,
+  "confidence": 0.65789,
+  "lift": 1.64474,
+  "conviction": 1.75385,
+  "leverage": 0.0196,
+  "antecedent_count": 76,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "neural-network"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.05,
+  "support_count": 50,
+  "confidence": 0.65789,
+  "lift": 1.64474,
+  "conviction": 1.75385,
+  "leverage": 0.0196,
+  "antecedent_count": 76,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "neural-networks",
+   "python"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.65217,
+  "lift": 1.63043,
+  "conviction": 1.725,
+  "leverage": 0.0058,
+  "antecedent_count": 23,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "python",
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.65217,
+  "lift": 1.63043,
+  "conviction": 1.725,
+  "leverage": 0.0058,
+  "antecedent_count": 23,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "pytorch"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.64516,
+  "lift": 1.6129,
+  "conviction": 1.69091,
+  "leverage": 0.0076,
+  "antecedent_count": 31,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deeplearning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.63158,
+  "lift": 1.57895,
+  "conviction": 1.62857,
+  "leverage": 0.0044,
+  "antecedent_count": 19,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deeplearning"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.63158,
+  "lift": 1.57895,
+  "conviction": 1.62857,
+  "leverage": 0.0044,
+  "antecedent_count": 19,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deeplearning",
+   "machine-learning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.63158,
+  "lift": 1.57895,
+  "conviction": 1.62857,
+  "leverage": 0.0044,
+  "antecedent_count": 19,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "pandas"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.88889,
+  "lift": 1.57884,
+  "conviction": 3.933,
+  "leverage": 0.00587,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "pandas"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.88889,
+  "lift": 1.57884,
+  "conviction": 3.933,
+  "leverage": 0.00587,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "pandas"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.88889,
+  "lift": 1.57884,
+  "conviction": 3.933,
+  "leverage": 0.00587,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "neural-networks"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.022,
+  "support_count": 22,
+  "confidence": 0.62857,
+  "lift": 1.57143,
+  "conviction": 1.61538,
+  "leverage": 0.008,
+  "antecedent_count": 35,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "neural-networks"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.022,
+  "support_count": 22,
+  "confidence": 0.62857,
+  "lift": 1.57143,
+  "conviction": 1.61538,
+  "leverage": 0.008,
+  "antecedent_count": 35,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "neural-networks"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.022,
+  "support_count": 22,
+  "confidence": 0.62857,
+  "lift": 1.57143,
+  "conviction": 1.61538,
+  "leverage": 0.008,
+  "antecedent_count": 35,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "pytorch"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.88235,
+  "lift": 1.56723,
+  "conviction": 3.7145,
+  "leverage": 0.00543,
+  "antecedent_count": 17,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.3,
+  "lift": 1.53846,
+  "conviction": 1.15,
+  "leverage": 0.00525,
+  "antecedent_count": 50,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "artificial-intelligence",
+   "machine-learning"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.3,
+  "lift": 1.53846,
+  "conviction": 1.15,
+  "leverage": 0.00525,
+  "antecedent_count": 50,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.3,
+  "lift": 1.53846,
+  "conviction": 1.15,
+  "leverage": 0.00525,
+  "antecedent_count": 50,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "computer-vision"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.6087,
+  "lift": 1.52174,
+  "conviction": 1.53333,
+  "leverage": 0.0048,
+  "antecedent_count": 23,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "neural-network"
+  ],
+  "consequent": [
+   "deep-learning",
+   "python"
+  ],
+  "support": 0.027,
+  "support_count": 27,
+  "confidence": 0.35526,
+  "lift": 1.50535,
+  "conviction": 1.18498,
+  "leverage": 0.00906,
+  "antecedent_count": 76,
+  "consequent_count": 236
+ },
+ {
+  "antecedent": [
+   "data-visualization"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.84211,
+  "lift": 1.49575,
+  "conviction": 2.76767,
+  "leverage": 0.0053,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-visualization"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.84211,
+  "lift": 1.49575,
+  "conviction": 2.76767,
+  "leverage": 0.0053,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-visualization",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.84211,
+  "lift": 1.49575,
+  "conviction": 2.76767,
+  "leverage": 0.0053,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "scikit-learn"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.028,
+  "support_count": 28,
+  "confidence": 0.82353,
+  "lift": 1.46275,
+  "conviction": 2.47633,
+  "leverage": 0.00886,
+  "antecedent_count": 34,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "scikit-learn"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.028,
+  "support_count": 28,
+  "confidence": 0.82353,
+  "lift": 1.46275,
+  "conviction": 2.47633,
+  "leverage": 0.00886,
+  "antecedent_count": 34,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "scikit-learn"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.028,
+  "support_count": 28,
+  "confidence": 0.82353,
+  "lift": 1.46275,
+  "conviction": 2.47633,
+  "leverage": 0.00886,
+  "antecedent_count": 34,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "pytorch"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.086,
+  "support_count": 86,
+  "confidence": 0.81905,
+  "lift": 1.45479,
+  "conviction": 2.415,
+  "leverage": 0.02688,
+  "antecedent_count": 105,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "image-processing"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.8125,
+  "lift": 1.44316,
+  "conviction": 2.33067,
+  "leverage": 0.00399,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "computer-vision"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.057,
+  "support_count": 57,
+  "confidence": 0.57576,
+  "lift": 1.43939,
+  "conviction": 1.41429,
+  "leverage": 0.0174,
+  "antecedent_count": 99,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "computer-vision"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.057,
+  "support_count": 57,
+  "confidence": 0.57576,
+  "lift": 1.43939,
+  "conviction": 1.41429,
+  "leverage": 0.0174,
+  "antecedent_count": 99,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "machine-learning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.057,
+  "support_count": 57,
+  "confidence": 0.57576,
+  "lift": 1.43939,
+  "conviction": 1.41429,
+  "leverage": 0.0174,
+  "antecedent_count": 99,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "neural-network"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.28,
+  "lift": 1.4359,
+  "conviction": 1.11806,
+  "leverage": 0.00425,
+  "antecedent_count": 50,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "pytorch"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.117,
+  "support_count": 117,
+  "confidence": 0.8069,
+  "lift": 1.43321,
+  "conviction": 2.26304,
+  "leverage": 0.03537,
+  "antecedent_count": 145,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "pytorch"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.117,
+  "support_count": 117,
+  "confidence": 0.8069,
+  "lift": 1.43321,
+  "conviction": 2.26304,
+  "leverage": 0.03537,
+  "antecedent_count": 145,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "pytorch"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.117,
+  "support_count": 117,
+  "confidence": 0.8069,
+  "lift": 1.43321,
+  "conviction": 2.26304,
+  "leverage": 0.03537,
+  "antecedent_count": 145,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "pytorch"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.025,
+  "support_count": 25,
+  "confidence": 0.80645,
+  "lift": 1.43242,
+  "conviction": 2.25783,
+  "leverage": 0.00755,
+  "antecedent_count": 31,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "awesome-list"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.57143,
+  "lift": 1.42857,
+  "conviction": 1.4,
+  "leverage": 0.006,
+  "antecedent_count": 35,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "awesome-list"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.57143,
+  "lift": 1.42857,
+  "conviction": 1.4,
+  "leverage": 0.006,
+  "antecedent_count": 35,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "awesome-list",
+   "machine-learning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.57143,
+  "lift": 1.42857,
+  "conviction": 1.4,
+  "leverage": 0.006,
+  "antecedent_count": 35,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.027,
+  "support_count": 27,
+  "confidence": 0.27551,
+  "lift": 1.41287,
+  "conviction": 1.11113,
+  "leverage": 0.00789,
+  "antecedent_count": 98,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "artificial-intelligence",
+   "machine-learning"
+  ],
+  "support": 0.027,
+  "support_count": 27,
+  "confidence": 0.27551,
+  "lift": 1.41287,
+  "conviction": 1.11113,
+  "leverage": 0.00789,
+  "antecedent_count": 98,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.027,
+  "support_count": 27,
+  "confidence": 0.27551,
+  "lift": 1.41287,
+  "conviction": 1.11113,
+  "leverage": 0.00789,
+  "antecedent_count": 98,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "time-series"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.78947,
+  "lift": 1.40226,
+  "conviction": 2.07575,
+  "leverage": 0.0043,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "time-series"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.78947,
+  "lift": 1.40226,
+  "conviction": 2.07575,
+  "leverage": 0.0043,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "time-series"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.78947,
+  "lift": 1.40226,
+  "conviction": 2.07575,
+  "leverage": 0.0043,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.028,
+  "support_count": 28,
+  "confidence": 0.56,
+  "lift": 1.4,
+  "conviction": 1.36364,
+  "leverage": 0.008,
+  "antecedent_count": 50,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.028,
+  "support_count": 28,
+  "confidence": 0.56,
+  "lift": 1.4,
+  "conviction": 1.36364,
+  "leverage": 0.008,
+  "antecedent_count": 50,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.028,
+  "support_count": 28,
+  "confidence": 0.56,
+  "lift": 1.4,
+  "conviction": 1.36364,
+  "leverage": 0.008,
+  "antecedent_count": 50,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "data-science",
+   "deep-learning"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.27119,
+  "lift": 1.3907,
+  "conviction": 1.10453,
+  "leverage": 0.0045,
+  "antecedent_count": 59,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "jupyter notebook"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.55556,
+  "lift": 1.38889,
+  "conviction": 1.35,
+  "leverage": 0.0042,
+  "antecedent_count": 27,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.27083,
+  "lift": 1.38889,
+  "conviction": 1.104,
+  "leverage": 0.00364,
+  "antecedent_count": 48,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "optimization"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.77778,
+  "lift": 1.38149,
+  "conviction": 1.9665,
+  "leverage": 0.00387,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "optimization"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.77778,
+  "lift": 1.38149,
+  "conviction": 1.9665,
+  "leverage": 0.00387,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "optimization"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.77778,
+  "lift": 1.38149,
+  "conviction": 1.9665,
+  "leverage": 0.00387,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "pytorch",
+   "tensorflow"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.76923,
+  "lift": 1.36631,
+  "conviction": 1.89367,
+  "leverage": 0.00536,
+  "antecedent_count": 26,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "python"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.03,
+  "support_count": 30,
+  "confidence": 0.54545,
+  "lift": 1.36364,
+  "conviction": 1.32,
+  "leverage": 0.008,
+  "antecedent_count": 55,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "tensorflow"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.76471,
+  "lift": 1.35827,
+  "conviction": 1.85725,
+  "leverage": 0.00343,
+  "antecedent_count": 17,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "neural-network"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.26316,
+  "lift": 1.34953,
+  "conviction": 1.0925,
+  "leverage": 0.00518,
+  "antecedent_count": 76,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "neural-network"
+  ],
+  "consequent": [
+   "artificial-intelligence",
+   "machine-learning"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.26316,
+  "lift": 1.34953,
+  "conviction": 1.0925,
+  "leverage": 0.00518,
+  "antecedent_count": 76,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "neural-network"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.02,
+  "support_count": 20,
+  "confidence": 0.26316,
+  "lift": 1.34953,
+  "conviction": 1.0925,
+  "leverage": 0.00518,
+  "antecedent_count": 76,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "python3"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.022,
+  "support_count": 22,
+  "confidence": 0.75862,
+  "lift": 1.34746,
+  "conviction": 1.81043,
+  "leverage": 0.00567,
+  "antecedent_count": 29,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "python3"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.022,
+  "support_count": 22,
+  "confidence": 0.75862,
+  "lift": 1.34746,
+  "conviction": 1.81043,
+  "leverage": 0.00567,
+  "antecedent_count": 29,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "python3"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.022,
+  "support_count": 22,
+  "confidence": 0.75862,
+  "lift": 1.34746,
+  "conviction": 1.81043,
+  "leverage": 0.00567,
+  "antecedent_count": 29,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "image-processing"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00449,
+  "antecedent_count": 24,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "image-processing"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00449,
+  "antecedent_count": 24,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "image-processing",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00449,
+  "antecedent_count": 24,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "keras",
+   "tensorflow"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00374,
+  "antecedent_count": 20,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "docker"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00299,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "generative-ai"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00299,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-analysis",
+   "data-science"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00299,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "docker"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00299,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "docker",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00299,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "generative-ai"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00299,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "generative-ai",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00299,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "neural-network",
+   "tensorflow"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.75,
+  "lift": 1.33215,
+  "conviction": 1.748,
+  "leverage": 0.00299,
+  "antecedent_count": 16,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-analysis"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.73684,
+  "lift": 1.30878,
+  "conviction": 1.6606,
+  "leverage": 0.0033,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-analysis"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.73684,
+  "lift": 1.30878,
+  "conviction": 1.6606,
+  "leverage": 0.0033,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-analysis",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.73684,
+  "lift": 1.30878,
+  "conviction": 1.6606,
+  "leverage": 0.0033,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "computer-vision",
+   "python"
+  ],
+  "consequent": [
+   "artificial-intelligence"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.25455,
+  "lift": 1.30536,
+  "conviction": 1.07988,
+  "leverage": 0.00328,
+  "antecedent_count": 55,
+  "consequent_count": 195
+ },
+ {
+  "antecedent": [
+   "machine-learning-algorithms"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.022,
+  "support_count": 22,
+  "confidence": 0.73333,
+  "lift": 1.30255,
+  "conviction": 1.63875,
+  "leverage": 0.00511,
+  "antecedent_count": 30,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning-algorithms"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.022,
+  "support_count": 22,
+  "confidence": 0.73333,
+  "lift": 1.30255,
+  "conviction": 1.63875,
+  "leverage": 0.00511,
+  "antecedent_count": 30,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "machine-learning-algorithms"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.022,
+  "support_count": 22,
+  "confidence": 0.73333,
+  "lift": 1.30255,
+  "conviction": 1.63875,
+  "leverage": 0.00511,
+  "antecedent_count": 30,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "computer-vision"
+  ],
+  "consequent": [
+   "deep-learning",
+   "python"
+  ],
+  "support": 0.03,
+  "support_count": 30,
+  "confidence": 0.30303,
+  "lift": 1.28403,
+  "conviction": 1.09617,
+  "leverage": 0.00664,
+  "antecedent_count": 99,
+  "consequent_count": 236
+ },
+ {
+  "antecedent": [
+   "natural-language-processing",
+   "python"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.027,
+  "support_count": 27,
+  "confidence": 0.50943,
+  "lift": 1.27358,
+  "conviction": 1.22308,
+  "leverage": 0.0058,
+  "antecedent_count": 53,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "tensorflow"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.048,
+  "support_count": 48,
+  "confidence": 0.71642,
+  "lift": 1.2725,
+  "conviction": 1.541,
+  "leverage": 0.01028,
+  "antecedent_count": 67,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "reinforcement-learning"
+  ],
+  "consequent": [
+   "deep-learning",
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.3,
+  "lift": 1.27119,
+  "conviction": 1.09143,
+  "leverage": 0.0032,
+  "antecedent_count": 50,
+  "consequent_count": 236
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "data-science"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.016,
+  "support_count": 16,
+  "confidence": 0.5,
+  "lift": 1.25,
+  "conviction": 1.2,
+  "leverage": 0.0032,
+  "antecedent_count": 32,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "tensorflow"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.066,
+  "support_count": 66,
+  "confidence": 0.70213,
+  "lift": 1.24712,
+  "conviction": 1.46707,
+  "leverage": 0.01308,
+  "antecedent_count": 94,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "tensorflow"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.066,
+  "support_count": 66,
+  "confidence": 0.70213,
+  "lift": 1.24712,
+  "conviction": 1.46707,
+  "leverage": 0.01308,
+  "antecedent_count": 94,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "tensorflow"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.066,
+  "support_count": 66,
+  "confidence": 0.70213,
+  "lift": 1.24712,
+  "conviction": 1.46707,
+  "leverage": 0.01308,
+  "antecedent_count": 94,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-mining"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.7,
+  "lift": 1.24334,
+  "conviction": 1.45667,
+  "leverage": 0.00274,
+  "antecedent_count": 20,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-mining"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.7,
+  "lift": 1.24334,
+  "conviction": 1.45667,
+  "leverage": 0.00274,
+  "antecedent_count": 20,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-mining",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.7,
+  "lift": 1.24334,
+  "conviction": 1.45667,
+  "leverage": 0.00274,
+  "antecedent_count": 20,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.048,
+  "support_count": 48,
+  "confidence": 0.4898,
+  "lift": 1.22449,
+  "conviction": 1.176,
+  "leverage": 0.0088,
+  "antecedent_count": 98,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.048,
+  "support_count": 48,
+  "confidence": 0.4898,
+  "lift": 1.22449,
+  "conviction": 1.176,
+  "leverage": 0.0088,
+  "antecedent_count": 98,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.048,
+  "support_count": 48,
+  "confidence": 0.4898,
+  "lift": 1.22449,
+  "conviction": 1.176,
+  "leverage": 0.0088,
+  "antecedent_count": 98,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "data"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.68421,
+  "lift": 1.21529,
+  "conviction": 1.38383,
+  "leverage": 0.0023,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.68421,
+  "lift": 1.21529,
+  "conviction": 1.38383,
+  "leverage": 0.0023,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.68421,
+  "lift": 1.21529,
+  "conviction": 1.38383,
+  "leverage": 0.0023,
+  "antecedent_count": 19,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "neural-networks"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.015,
+  "support_count": 15,
+  "confidence": 0.68182,
+  "lift": 1.21104,
+  "conviction": 1.37343,
+  "leverage": 0.00261,
+  "antecedent_count": 22,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.013,
+  "support_count": 13,
+  "confidence": 0.48148,
+  "lift": 1.2037,
+  "conviction": 1.15714,
+  "leverage": 0.0022,
+  "antecedent_count": 27,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "deep-learning",
+   "keras"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.018,
+  "support_count": 18,
+  "confidence": 0.66667,
+  "lift": 1.18413,
+  "conviction": 1.311,
+  "leverage": 0.0028,
+  "antecedent_count": 27,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "classification"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.66667,
+  "lift": 1.18413,
+  "conviction": 1.311,
+  "leverage": 0.00218,
+  "antecedent_count": 21,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "classification"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.66667,
+  "lift": 1.18413,
+  "conviction": 1.311,
+  "leverage": 0.00218,
+  "antecedent_count": 21,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "classification",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.014,
+  "support_count": 14,
+  "confidence": 0.66667,
+  "lift": 1.18413,
+  "conviction": 1.311,
+  "leverage": 0.00218,
+  "antecedent_count": 21,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "transformers"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.66667,
+  "lift": 1.18413,
+  "conviction": 1.311,
+  "leverage": 0.00187,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "visualization"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.66667,
+  "lift": 1.18413,
+  "conviction": 1.311,
+  "leverage": 0.00187,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "transformers"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.66667,
+  "lift": 1.18413,
+  "conviction": 1.311,
+  "leverage": 0.00187,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "transformers"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.66667,
+  "lift": 1.18413,
+  "conviction": 1.311,
+  "leverage": 0.00187,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "visualization"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.66667,
+  "lift": 1.18413,
+  "conviction": 1.311,
+  "leverage": 0.00187,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "visualization"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.012,
+  "support_count": 12,
+  "confidence": 0.66667,
+  "lift": 1.18413,
+  "conviction": 1.311,
+  "leverage": 0.00187,
+  "antecedent_count": 18,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-science",
+   "jupyter notebook"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.031,
+  "support_count": 31,
+  "confidence": 0.65957,
+  "lift": 1.17154,
+  "conviction": 1.28369,
+  "leverage": 0.00454,
+  "antecedent_count": 47,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "natural-language-processing"
+  ],
+  "consequent": [
+   "deep-learning",
+   "python"
+  ],
+  "support": 0.027,
+  "support_count": 27,
+  "confidence": 0.27551,
+  "lift": 1.16742,
+  "conviction": 1.05454,
+  "leverage": 0.00387,
+  "antecedent_count": 98,
+  "consequent_count": 236
+ },
+ {
+  "antecedent": [
+   "neural-networks"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.023,
+  "support_count": 23,
+  "confidence": 0.65714,
+  "lift": 1.16722,
+  "conviction": 1.27458,
+  "leverage": 0.00329,
+  "antecedent_count": 35,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "neural-networks"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.023,
+  "support_count": 23,
+  "confidence": 0.65714,
+  "lift": 1.16722,
+  "conviction": 1.27458,
+  "leverage": 0.00329,
+  "antecedent_count": 35,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "neural-networks"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.023,
+  "support_count": 23,
+  "confidence": 0.65714,
+  "lift": 1.16722,
+  "conviction": 1.27458,
+  "leverage": 0.00329,
+  "antecedent_count": 35,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "keras"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.019,
+  "support_count": 19,
+  "confidence": 0.65517,
+  "lift": 1.16372,
+  "conviction": 1.2673,
+  "leverage": 0.00267,
+  "antecedent_count": 29,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "keras"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.019,
+  "support_count": 19,
+  "confidence": 0.65517,
+  "lift": 1.16372,
+  "conviction": 1.2673,
+  "leverage": 0.00267,
+  "antecedent_count": 29,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "keras",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.019,
+  "support_count": 19,
+  "confidence": 0.65517,
+  "lift": 1.16372,
+  "conviction": 1.2673,
+  "leverage": 0.00267,
+  "antecedent_count": 29,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.089,
+  "support_count": 89,
+  "confidence": 0.45641,
+  "lift": 1.14103,
+  "conviction": 1.10377,
+  "leverage": 0.011,
+  "antecedent_count": 195,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence"
+  ],
+  "consequent": [
+   "deep-learning",
+   "machine-learning"
+  ],
+  "support": 0.089,
+  "support_count": 89,
+  "confidence": 0.45641,
+  "lift": 1.14103,
+  "conviction": 1.10377,
+  "leverage": 0.011,
+  "antecedent_count": 195,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "machine-learning"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.089,
+  "support_count": 89,
+  "confidence": 0.45641,
+  "lift": 1.14103,
+  "conviction": 1.10377,
+  "leverage": 0.011,
+  "antecedent_count": 195,
+  "consequent_count": 400
+ },
+ {
+  "antecedent": [
+   "mlops"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.017,
+  "support_count": 17,
+  "confidence": 0.62963,
+  "lift": 1.11835,
+  "conviction": 1.1799,
+  "leverage": 0.0018,
+  "antecedent_count": 27,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "mlops"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.017,
+  "support_count": 17,
+  "confidence": 0.62963,
+  "lift": 1.11835,
+  "conviction": 1.1799,
+  "leverage": 0.0018,
+  "antecedent_count": 27,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "machine-learning",
+   "mlops"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.017,
+  "support_count": 17,
+  "confidence": 0.62963,
+  "lift": 1.11835,
+  "conviction": 1.1799,
+  "leverage": 0.0018,
+  "antecedent_count": 27,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-science"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.09,
+  "support_count": 90,
+  "confidence": 0.62937,
+  "lift": 1.11789,
+  "conviction": 1.17908,
+  "leverage": 0.00949,
+  "antecedent_count": 143,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-science"
+  ],
+  "consequent": [
+   "machine-learning",
+   "python"
+  ],
+  "support": 0.09,
+  "support_count": 90,
+  "confidence": 0.62937,
+  "lift": 1.11789,
+  "conviction": 1.17908,
+  "leverage": 0.00949,
+  "antecedent_count": 143,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "data-science",
+   "machine-learning"
+  ],
+  "consequent": [
+   "python"
+  ],
+  "support": 0.09,
+  "support_count": 90,
+  "confidence": 0.62937,
+  "lift": 1.11789,
+  "conviction": 1.17908,
+  "leverage": 0.00949,
+  "antecedent_count": 143,
+  "consequent_count": 563
+ },
+ {
+  "antecedent": [
+   "artificial-intelligence",
+   "python"
+  ],
+  "consequent": [
+   "deep-learning"
+  ],
+  "support": 0.049,
+  "support_count": 49,
+  "confidence": 0.44545,
+  "lift": 1.11364,
+  "conviction": 1.08197,
+  "leverage": 0.005,
+  "antecedent_count": 110,
+  "consequent_count": 400
+ }
+]
